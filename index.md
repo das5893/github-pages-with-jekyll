@@ -1,3 +1,3 @@
-# Welcome to my blog
+# CSE - Xplatform Engagement Process
 
-I'm glad you are here. I plan to talk about ...
+This is the process for submitting requests to Xplatform.
